@@ -6,6 +6,8 @@ You can define related data with structs. They can be multiple related values th
 
 Classic Struct
 
+Rust
+
 ```rust
 #[derive(Debug)]
 struct ReleaseStruct {

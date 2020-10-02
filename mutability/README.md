@@ -4,15 +4,19 @@ Variables are immutable by default. You can change that by adding the `mut` keyw
 
 ## Examples
 
+JavaScript
+
 ```javascript
 function main() {
-  let breakfast = 'cereal';
+  let breakfast = "cereal";
   console.log(`This morning's breakfast was ${breakfast}`);
 
-  breakfast = 'waffles';
+  breakfast = "waffles";
   console.log(`This morning's breakfast was ${breakfast}`);
 }
 ```
+
+Rust
 
 ```rust
 fn main() {

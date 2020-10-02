@@ -4,6 +4,8 @@
 
 Character literals are represented with a single quote (vs double quote for strings).
 
+Rust
+
 ```rust
 fn main() {
     let a = '𝒜';
@@ -23,17 +25,21 @@ Arrays in Rust behave differently than in JavaScript. Each array element must ha
 
 **slice**
 
+JavaScript
+
 ```javascript
 const roots = [
-  'questlove',
-  'black thought',
-  'james poyser',
-  'damon bryson',
-  'captain kirk douglas',
+  "questlove",
+  "black thought",
+  "james poyser",
+  "damon bryson",
+  "captain kirk douglas",
 ];
 console.log(roots.slice(1, 4));
 // Array ["black thought", "james poyser", "damon bryson"]
 ```
+
+Rust
 
 ```rust
 fn main() {
@@ -53,6 +59,8 @@ fn main() {
 ```
 
 ## Tuples
+
+Rust
 
 ```rust
 fn main() {

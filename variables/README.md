@@ -12,6 +12,8 @@
 
 ## Examples
 
+JavaScript
+
 ```javascript
 function main() {
   const CAR_MILEAGE = 72_468;
@@ -27,6 +29,8 @@ function main() {
   }
 }
 ```
+
+Rust
 
 ```rust
 fn main() {

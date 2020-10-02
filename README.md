@@ -29,6 +29,4 @@ Any JavaScript comparisons assumes ES2015 or greater. I may break apart some of 
 - [Rust for JavaScript people](http://rustjs.yoshuawuyts.com/01_introduction.html)
 - [What is Rust? For Javascript Developers](https://medium.com/swlh/what-is-rust-c2e43ab91256)
 - [rustlings 🦀❤️ ](https://github.com/rust-lang/rustlings)
-- [Learning Rust by Working Through the Rustlings Exercises\*](https://egghead.io/playlists/learning-rust-by-solving-the-rustlings-exercises-a722)
-
-* = requires paid [egghead.io](https://egghead.io) subscription
+- [Learning Rust by Working Through the Rustlings Exercises\*](https://egghead.io/playlists/learning-rust-by-solving-the-rustlings-exercises-a722) – requires [egghead.io](https://egghead.io) subscription

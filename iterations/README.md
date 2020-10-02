@@ -2,6 +2,8 @@
 
 ## Examples
 
+JavaScript
+
 ```javascript
 function main() {
   [...Array(10).keys()].forEach((key, i) => {
@@ -9,6 +11,8 @@ function main() {
   });
 }
 ```
+
+Rust
 
 ```rust
 fn main() {
