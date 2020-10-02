@@ -2,7 +2,7 @@
 
 ## Examples
 
-JavaScript
+🅙🅢 JavaScript
 
 ```javascript
 function main() {
@@ -12,7 +12,7 @@ function main() {
 }
 ```
 
-Rust
+🦀 Rust
 
 ```rust
 fn main() {

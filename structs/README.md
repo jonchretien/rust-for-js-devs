@@ -6,7 +6,7 @@ You can define related data with structs. They can be multiple related values th
 
 Classic Struct
 
-Rust
+🦀 Rust
 
 ```rust
 #[derive(Debug)]

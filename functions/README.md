@@ -8,6 +8,8 @@ Functions are declared using `snake_case`, and the `main` function will be the e
 
 You must declare them in type signatures.
 
+🅙🅢 JavaScript
+
 ```javascript
 function calculateSalesTax(a) {
   const SALES_TAX = 0.8;
@@ -19,6 +21,8 @@ function main() {
   console.log(`Total bill is $${salesTax.toFixed(2)}`);
 }
 ```
+
+🦀 Rust
 
 ```rust
 fn calculate_sales_tax(a: f64) -> f64 {
@@ -34,10 +38,14 @@ fn main() {
 
 **Implicit return values**
 
+🅙🅢 JavaScript
+
 ```javascript
 const sum = (a, b) => a + b;
 sum(4, 5);
 ```
+
+🦀 Rust
 
 ```rust
 fn sum(a: i32, b: i32) -> i32 {
@@ -51,6 +59,8 @@ fn main() {
 
 **Explicit return values**
 
+🅙🅢 JavaScript
+
 ```javascript
 const sum = (a, b) => {
   return a + b;
@@ -58,6 +68,8 @@ const sum = (a, b) => {
 
 sum(4, 5);
 ```
+
+🦀 Rust
 
 ```rust
 fn sum(a: i32, b: i32) -> i32 {

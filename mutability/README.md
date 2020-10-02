@@ -4,7 +4,7 @@ Variables are immutable by default. You can change that by adding the `mut` keyw
 
 ## Examples
 
-JavaScript
+🅙🅢 JavaScript
 
 ```javascript
 function main() {
@@ -16,7 +16,7 @@ function main() {
 }
 ```
 
-Rust
+🦀 Rust
 
 ```rust
 fn main() {
