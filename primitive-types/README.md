@@ -69,6 +69,6 @@ fn main() {
     // destructure tuple
     let (name, records) = musician;
     println!("{} has {} records in his collection", name, records);
-    // questlove is 49 years old
+    // questlove has 170000 records in his collection
 }
 ```

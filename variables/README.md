@@ -7,7 +7,7 @@
 
 ## Differences with JS
 
-- Immutable by default(more examples in [mutability](../mutability/README.md)).
+- Immutable by default (more examples in [mutability](../mutability/README.md)).
 - Must be initialized (you can't just do `let x: i32;`).
 
 ## Examples
