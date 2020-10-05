@@ -6,7 +6,7 @@ Functions are declared using `snake_case`, and the `main` function will be the e
 
 **Declaring the return type of a function**
 
-You must declare them in type signatures.
+You must declare them in type signatures. Also note that if a semicolon is added to the end of the expression, it turns that into a statement. Statements [don't return a value](https://doc.rust-lang.org/book/ch03-03-how-functions-work.html#function-bodies-contain-statements-and-expressions).
 
 🅙🅢 JavaScript
 
