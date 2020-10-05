@@ -18,8 +18,8 @@ Any client-side JavaScript comparisons assumes ES2015 or greater. I may break ap
 - [Primitive Types](primitive-types/README.md)
 - [Structs](structs/README.md)
 - [Ownership](ownership/README.md)
-- Types
-- Data Structures
+- Types (WIP)
+- Data Structures (WIP)
 
 ## Resources
 
