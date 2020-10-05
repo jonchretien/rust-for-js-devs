@@ -8,7 +8,7 @@ This guide won't cover setup and installation since that's expertly handled in [
 
 ## Examples
 
-Any JavaScript comparisons assumes ES2015 or greater. I may break apart some of the examples in the future, but for now one example may contain a few key concepts with comments for further explanation. All of this is very much a work in progress, so expect some shuffling around.
+Any client-side JavaScript comparisons assumes ES2015 or greater. I may break apart some of the examples in the future, but for now one example may contain a few key concepts with comments for further explanation. All of this is very much a work in progress, so expect some shuffling around.
 
 ## Table of Contents
 
@@ -17,10 +17,9 @@ Any JavaScript comparisons assumes ES2015 or greater. I may break apart some of 
 - [Functions](functions/README.md)
 - [Primitive Types](primitive-types/README.md)
 - [Structs](structs/README.md)
+- [Ownership](ownership/README.md)
 - Types
-- Ownership
 - Data Structures
-- Characters
 
 ## Resources
 
